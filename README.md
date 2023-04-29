@@ -14,6 +14,7 @@ matplotlib
 sklearn
 
 ## Dataset
+I use english_cleaned_lyrics.csv from [hiteshyalamanchili/SongGenreClassification](https://github.com/hiteshyalamanchili/SongGenreClassification/tree/master/dataset)
 
 
 ## Preprocessing
